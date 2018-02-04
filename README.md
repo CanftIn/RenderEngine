@@ -3,7 +3,7 @@
 try to make a software render engine. 
 it's on working...
 
-first try, project ford is put into [./renderer].
+first try, project ford is put into [./renderer](./renderer).
 and I got how to draw line.
 
 learn from **ssloy/tinyrenderer**   
