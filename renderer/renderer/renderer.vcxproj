@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClInclude Include="geometry.h" />
     <ClInclude Include="image.h" />
+    <ClInclude Include="model.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp" />

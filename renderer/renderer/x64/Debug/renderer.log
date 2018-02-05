@@ -1,0 +1,8 @@
+﻿  test.cpp
+f:\2018\renderengine\renderer\renderer\test.cpp(31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\2018\renderengine\renderer\renderer\test.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\2018\renderengine\renderer\renderer\test.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\2018\renderengine\renderer\renderer\test.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\2018\renderengine\renderer\renderer\test.cpp(65): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  renderer.vcxproj -> F:\2018\RenderEngine\renderer\x64\Debug\renderer.exe
+  renderer.vcxproj -> F:\2018\RenderEngine\renderer\x64\Debug\renderer.pdb (Full PDB)
