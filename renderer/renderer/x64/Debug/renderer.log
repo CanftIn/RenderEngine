@@ -1,4 +1,9 @@
 ﻿  test.cpp
 f:\2018\renderengine\renderer\renderer\test.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\2018\renderengine\renderer\renderer\test.cpp(72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\2018\renderengine\renderer\renderer\geometry.h(19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  f:\2018\renderengine\renderer\renderer\geometry.h(19): note: while compiling class template member function 'Vec2<int> Vec2<int>::operator *(float) const'
+  f:\2018\renderengine\renderer\renderer\test.cpp(48): note: see reference to function template instantiation 'Vec2<int> Vec2<int>::operator *(float) const' being compiled
+  f:\2018\renderengine\renderer\renderer\test.cpp(14): note: see reference to class template instantiation 'Vec2<int>' being compiled
   renderer.vcxproj -> F:\2018\RenderEngine\renderer\x64\Debug\renderer.exe
   renderer.vcxproj -> F:\2018\RenderEngine\renderer\x64\Debug\renderer.pdb (Full PDB)
